@@ -20,8 +20,8 @@ Incluyendo **HTML** y **CSS**
 
 ### Puedes contactarme mediante la siguiente informacion:
 
-Correo: juliansotelo02@gmail.com
-[Linkedin](https://www.linkedin.com/in/julian-sotelo-305ab9213/)
+- Correo: juliansotelo02@gmail.com
+- [Linkedin](https://www.linkedin.com/in/julian-sotelo-305ab9213/)
 
 <!--
 **JulianSotelo17/JulianSotelo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
