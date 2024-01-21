@@ -14,6 +14,7 @@ Gracias a los estudios que relice tengo conocimiento de uso en las siguientes te
 - Express.js
 - PostgreSQL
 - Sequelize
+- GraphQL
 - GIT
 
 Incluyendo **HTML** y **CSS**
