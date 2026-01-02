@@ -1,40 +1,39 @@
-# Hola! mi nombre es Julian Sotelo. 👋
+# Hi, I'm Julian Sotelo 👋
 
-### ¿Quien soy?
+## About Me
+I'm a **Software Developer** with experience building web applications and SaaS products using modern frontend and backend technologies.
 
-Soy un **Web Developer FullStack**. Me intereso mucho por aprender nuevas tecnologias que me ayuden a realizar los proyectos o trabajos que se me presenten y me ayuden a progresar.
+I enjoy working across the full development cycle, from designing APIs and business logic to building modular, user-friendly interfaces. I'm especially interested in creating **maintainable, scalable solutions** and continuously improving my skills through real-world projects.
 
-### ¿Que tecnologias uso?
+---
 
-Gracias a los estudios que relice tengo conocimiento de uso en las siguientes tecnologias:
-- JavaScript
-- React.js
-- Node.js
-- Redux
-- Express.js
-- PostgreSQL
-- Sequelize
-- GraphQL
-- GIT
+## Tech Stack
 
-Incluyendo **HTML** y **CSS**
+**Languages & Frameworks**
+- JavaScript / TypeScript  
+- Node.js, NestJS  
+- React, Angular  
 
-### Puedes contactarme mediante la siguiente informacion:
+**Backend & Databases**
+- PostgreSQL  
+- Sequelize  
+- REST APIs  
+- GraphQL  
 
-- Correo: juliansotelo02@gmail.com
-- [Linkedin](https://www.linkedin.com/in/julian-sotelo-305ab9213/)
+**Tools & Practices**
+- Git & GitHub  
+- Agile / Scrum  
+- HTML & CSS  
 
-<!--
-**JulianSotelo17/JulianSotelo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## What I'm Currently Working On
+- Building and improving web applications with a focus on clean architecture and usability  
+- Strengthening backend development skills with Node.js and TypeScript  
+- Learning best practices for scalable SaaS applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contact
+📧 Email: juliansotelo02@gmail.com  
+💼 LinkedIn: [add your LinkedIn URL here]
