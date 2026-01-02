@@ -36,4 +36,4 @@ I enjoy working across the full development cycle, from designing APIs and busin
 
 ## Contact
 📧 Email: juliansotelo02@gmail.com  
-💼 LinkedIn: [add your LinkedIn URL here]
+💼 LinkedIn: (https://www.linkedin.com/in/julian-sotelo-305ab9213/)
